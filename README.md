@@ -1,13 +1,13 @@
-<h1 >Hi 👋, I'm Shivam</h1>
-<h3 >Java Backend Developer</h3>
+<h1 align="center">Hi 👋, I'm Shivam</h1>
+<h3 align="center">Java Backend Developer</h3>
 
 <div style="display: flex; justify-content: space-around;" >
-    <p style="width: 50%;">Logical and competent backend developer dedicated to
+    <p align="left" style="width: 50%;">Logical and competent backend developer dedicated to
     developing functional web applications and optimizing
     them. Enjoy creative problem solving and getting 
     exposure to multiple projects.
     </p>
-    <img  alt="Coding" width="200" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+    <img  align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 </div>
 
 
