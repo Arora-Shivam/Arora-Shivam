@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 <h3 align="center">Java Backend Developer</h3>
-
+<h3 align="left">About Me</h3>
 <div style="display: flex; justify-content: space-around;" >
-    <p align="left" style="width: 50%;">Logical and competent backend developer dedicated to
-    developing functional web applications and optimizing
-    them. Enjoy creative problem solving and getting 
-    exposure to multiple projects.
-    </p>
-    <img  align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+ <p align="left" style="width: 50%;">I am Aspiring, Analytical, Observant and detail-oriented Java Backend Developer. Self-motivated and curious, with a keen interest in building user-centric products by using java, spring and rdbms .I am passionate about Coding and strongly interested in working to enhance my career in very good organization and also to use my skills to bring out the best of the organization.
+ </p>
+ <img  align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 </div>
 
 
@@ -23,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p style="display: flex;justify-content: space-evenly;width: 20%;" >
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-arora-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-arora-/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-arora-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-arora-/" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@shiarora4002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@shiarora4002" height="30" width="40" /></a>
 </p>
 
