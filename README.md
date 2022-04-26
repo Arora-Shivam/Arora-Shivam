@@ -33,9 +33,9 @@
 
 <hr>
 
-<div display="flex" justify-content:"space-around"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arora-shivam&show_icons=true&locale=en&layout=compact" alt="arora-shivam" />
+<div display="flex" justify-content:"space-around"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arora-shivam&show_icons=true&locale=en&layout=compact" alt="arora-shivam" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=arora-shivam&show_icons=true&locale=en" alt="arora-shivam" /></div>
+<img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=arora-shivam&show_icons=true&locale=en" alt="arora-shivam" /></div>
 
 
 
