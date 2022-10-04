@@ -14,7 +14,7 @@
 
 - 📫 Feel free to reach me at **shiarora4002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZlCDouGr6ZFa7qYWc0VMEIh1ua4TMGlz/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eMnRi613BSD2czQYgTyJd6mhs3aGLCxy/view?usp=sharing)
 
 <hr>
 
